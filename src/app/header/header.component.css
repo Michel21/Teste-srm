@@ -1,0 +1,83 @@
+/* .main_header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  max-width: 100%;
+  width: 100%;
+  height: 60px;
+  border-bottom: 1px solid #ccc;
+  }
+  .header_content{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+  }
+  .header_content input{
+    padding: 10px 45px;
+    border: none;
+    outline: none;
+    background: transparent;
+  }
+  .header_content .icon_search{
+      position: absolute;
+      right: 40%;
+      top: 23px;
+      color: #999;
+      font-size: 20px;
+  }
+  .main_header header img{
+    width: 127px;
+    border-left: 1px solid #ccc;
+  }
+  .button_info{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-right: 20px;
+  }
+  .title_grupo{
+    margin-top: 11px;
+    margin-right: 10px;
+    color: #999;
+    font-size: 14px;
+  }
+  .botton_options{
+    border: 1px solid #6897ce;
+    display: block;
+    padding-top: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 0.875em;
+    color: #999;
+  }
+  .botton_users{
+    display: block;
+    padding-top: 10px;
+    padding: 10px;
+    text-align: center;
+    background: #17283f;
+    color: #fff;
+    font-size: 0.875em;
+  }
+  .botton_count{
+    position: relative;
+    display: block;
+    padding-top: 10px;
+    padding: 10px 15px;
+    text-align: center;
+    background: #6897ce;
+    color: white;
+  }
+  .botton_count span{
+    position: absolute;
+    top: 8px;
+    background-color: #d62b16;
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    font-size: 10px;
+  } */
