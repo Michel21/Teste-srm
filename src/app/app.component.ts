@@ -2,15 +2,19 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  templateUrl: './app.component.html'
+
 })
 export class AppComponent {
-  ListaContatos: Array<any> = [
-    {id:1, nome:'Michel', email: 'michelangelis'},
-    {id:2, nome: "caroline", email:'cah@gmail.com'},
-    {id:3, nome: "maria", email:'maria@gmail.com'},
-    {id:4, nome: "osnice", email:'osnice@gmail.com'}
-
+  ListaItens: Array<any> = [
+    {nome:'conta1'},
+    {nome:'conta2'},
+    {nome:'conta3'},
+    {nome:'conta4'},
+    {nome:'conta5'},
+    {nome:'conta6'},
   ];
 }
+
+
+
